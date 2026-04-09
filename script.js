@@ -42,7 +42,7 @@ const translations = {
   "hero.point.mobile.value": { en: "Flawless responsive execution", hi: "फ्लॉलेस responsive execution" },
   "hero.panel.status": { en: "Premium UI Pipeline", hi: "प्रीमियम UI पाइपलाइन" },
   "hero.panel.meta": { en: "Responsive by default", hi: "डिफॉल्ट रूप से responsive" },
-  "hero.panel.title": { en: "What Vinay brings", hi: "विनय क्या लेकर आते हैं" },
+  "hero.panel.title": { en: "What Vinay & Guneet brings", hi: "What Vinay & Guneet brings | विनय और गुनीत क्या लेकर आते हैं" },
   "hero.panel.item1": { en: "Luxury-grade web presentation", hi: "Luxury-grade web presentation" },
   "hero.panel.item2": { en: "Conversion-minded interaction design", hi: "Conversion-minded interaction design" },
   "hero.panel.item3": { en: "Fast, maintainable front-end systems", hi: "Fast, maintainable front-end systems" },
